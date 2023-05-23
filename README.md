@@ -25,4 +25,4 @@ You can encrypt/decrypt and generate dynamic code.
 
 ### hackbugz:
 
-Never trust any data and check every data you recieve!
+Never trust any data and check every data you receive!
